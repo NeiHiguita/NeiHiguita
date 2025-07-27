@@ -37,10 +37,7 @@ Estoy siempre en busca de nuevos desafíos y oportunidades para seguir creciendo
 
 ### 🔗 Connect with Me:
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.neiderhiguita13@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
