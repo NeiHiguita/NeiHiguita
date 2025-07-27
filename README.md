@@ -27,14 +27,6 @@ Estoy siempre en busca de nuevos desafíos y oportunidades para seguir creciendo
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
 ### 🔗 Connect with Me:
 <p align="center">
   <a href="mailto:your.neiderhiguita13@gmail.com">
